@@ -13,7 +13,7 @@ Pablo complementa sobre a integração do phpMyAdmin e mySQL.
 Finalizando o trabalho mostrando o codigo na raça para a contrução de containers, Luiz.
 
 
-Seguindo o arquivo "docker-compose" alocado nesse Git, basta executar o comando no powershell.
+Seguindo o arquivo "docker-compose.yml" alocado nesse Git, basta executar o comando no powershell.
 
 docker-compose up -d --build //para montar as imagens e containers
 
