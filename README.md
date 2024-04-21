@@ -1,4 +1,4 @@
-# SO---Containers
+# SO-Containers
 Trabalho de SO 2/2022
 
 Integrantes: Luiz Eduardo Treméa, Pablo Henrique Bortoluzzi, Leonardo Telles e Matheus Basso.
